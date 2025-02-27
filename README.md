@@ -106,7 +106,7 @@ Logistic regression is a cornerstone in the field of predictive analytics, parti
 
 ## 🤝 Connect with Me
 
-If you're passionate about applying machine learning in healthcare or have any questions about this project, feel free to reach out. Let's collaborate and push the boundaries of data-driven healthcare together!
+If you're passionate about applying machine learning in healthcare or have any questions about this project, feel free to reach out. Let's collaborate!
 
 **#HealthcareAnalytics #LogisticRegression #MachineLearning #DataScience #PredictiveAnalytics**
 ```
